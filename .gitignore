@@ -9,6 +9,9 @@ dist/
 web-build/
 expo-env.d.ts
 
+# Variables de entorno
+.env
+
 # Native
 *.orig.*
 *.jks
